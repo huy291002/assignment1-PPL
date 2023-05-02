@@ -1,0 +1,4 @@
+  
+        helo : function auto(n:integer, b: string, inherit c: array) {
+        }
+        

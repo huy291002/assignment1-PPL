@@ -1,0 +1,1 @@
+out of string = "hello huy" float = 1_342_21_2_34.2e+10

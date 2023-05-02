@@ -1,0 +1,6 @@
+
+        do {
+            d, t: string;
+            d = 1_6_29_1;
+            huy = a + 12.e-1;
+        } while (ba == _huy);

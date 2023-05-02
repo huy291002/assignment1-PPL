@@ -1,0 +1,6 @@
+
+        while (_huy >= 1_23) {
+            _c_d_29, _huy29: string;
+            c_24, d_29: array [29,24,6] of integer;
+            __ : integer;
+        }

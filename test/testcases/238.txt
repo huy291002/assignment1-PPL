@@ -1,0 +1,18 @@
+  
+        helo : function void(n:integer) {
+            x : integer =29;
+            a,b: integer=29,10;
+            return foo(x*2);
+            for (a = 3, a != 3, a*2)
+            {
+            if (a==100)
+            break;
+            else
+            continue;
+            }
+        }
+        huy: function boolean(b: integer)
+        {
+        a=2;
+        }
+        

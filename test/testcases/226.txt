@@ -1,0 +1,8 @@
+  
+        fact : function auto(n:integer, s:string, a: auto) inherit super {
+        if (n==2) {
+            i=2;
+        }
+        else i = i+1;
+        }
+        

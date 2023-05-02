@@ -1,0 +1,10 @@
+
+                {
+                r, s: integer;
+                r = 3.021;
+                d, e: array [5] of integer;
+                a = b * b * myPI;
+                a[0] = s;
+                a,b,c: integer = 1,2,3;
+                }
+        

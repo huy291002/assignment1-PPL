@@ -1,0 +1,10 @@
+  
+        helo : function void(n:integer) {
+            x : integer =29;
+            a,b: integer=29,10;
+            if (a != 29)
+                if (a==1)
+                    a=a+2;
+                else b=a+2;
+        }
+        

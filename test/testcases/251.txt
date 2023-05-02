@@ -1,0 +1,5 @@
+
+        while (huy != 0) {
+            c, d: integer;
+            a, h: array [9] of integer;
+        }

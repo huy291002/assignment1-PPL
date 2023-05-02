@@ -1,0 +1,1 @@
+/*Hi this is comment 2*/ _b: integer = 2;

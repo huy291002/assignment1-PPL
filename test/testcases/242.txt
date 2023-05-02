@@ -1,0 +1,16 @@
+  
+        helo : function auto(n:integer, b: string, inherit c: array) {
+            foo(2*x,4*3,4.0/a);
+            return goo(2+3)*a;
+            }
+        bye: function void(out h: string, inherit b:integer, inherit out d: auto)
+        {
+        while (foo(2*3,4/x))
+        a=a+2;
+        }
+        alo: function string(a: integer, b: string)
+        {
+        goo();
+        foo(2*3);
+        }
+        

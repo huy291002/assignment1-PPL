@@ -1,0 +1,6 @@
+  
+        helo : function auto(n:integer, b: string, inherit c: array) {
+            foo(2*x,4*3);
+            return goo(2+3)*a;
+            }
+        

@@ -1,0 +1,1 @@
+void testcase(integer a_bc) a_bc =1_234_456_33

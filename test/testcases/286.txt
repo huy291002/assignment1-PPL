@@ -1,0 +1,11 @@
+
+            if (q_2910 <= "quan") {
+                h: integer;
+                {
+                    h: float; {
+                        h: array [2,3] of float;
+                    }
+                    h = {"huy", 29};
+                }
+            } else return messi({1,2,3});
+        

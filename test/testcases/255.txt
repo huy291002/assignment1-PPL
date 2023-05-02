@@ -1,0 +1,5 @@
+
+        while (__huy == 1_2) {
+            che : string;
+            d: integer;
+        }

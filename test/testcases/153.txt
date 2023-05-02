@@ -1,0 +1,1 @@
+/*Hi this is comment 4 /*sasda comment*/ hi */ _d: string = 1_23_4;

@@ -1,0 +1,5 @@
+
+        while (_a != 1_2_3_29_1_0) {
+            _a_b, _1: string;
+            a_29, h10: array [2,9] of integer;
+        }

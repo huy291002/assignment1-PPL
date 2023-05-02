@@ -1,0 +1,16 @@
+
+            if (huy == "str") {
+                huy: float;
+                {
+                    huy: string;
+                    huy= "quan";
+                }
+                {
+                    huy: boolean; 
+                    {
+                        huy: array [2,3] of float = {6,7,8,9,10};
+                    }
+                    huy = {"huy", 1};
+                }
+            } else break;
+        

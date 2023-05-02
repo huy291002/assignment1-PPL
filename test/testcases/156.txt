@@ -1,0 +1,1 @@
+_g: string = 17.e-90; // hi single /* sasda */ comment

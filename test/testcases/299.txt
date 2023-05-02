@@ -1,0 +1,12 @@
+  
+        for (i=1_234_1_294, i < 1223_2_2_42, i + 2345e+2)
+        {
+            hello(2*x,3/y);
+            bye(2+3,y/4);
+        }
+        inc: function void(i: integer, b: string)
+        {
+            return goo(2/3,24*y);
+            a={1,2,3,4};
+        }
+        

@@ -1,0 +1,10 @@
+  
+        helo : function auto(n:integer, b: string, inherit c: array) {
+                if (a >= b)
+                {
+                sayhello();
+                }
+                else
+                saygoodbye(2*3);
+        }
+        

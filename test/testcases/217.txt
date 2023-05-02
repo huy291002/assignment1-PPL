@@ -1,0 +1,6 @@
+
+                while (huy <= 1000)
+                {
+                    huy = huy::huy;
+                }
+        

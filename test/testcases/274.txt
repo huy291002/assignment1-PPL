@@ -1,0 +1,9 @@
+
+            if ((huy+29_19) >= 29_1_3.e+10) {
+                che = 1;
+                huy, che: array [1] of boolean = true, 123_0_29_10_12;
+                continue;
+            } else {
+                _huy = ch + (th + quan);
+            }
+        

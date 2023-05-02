@@ -1,0 +1,14 @@
+  
+        for (i=10, i<2, i*2)
+        {
+            foo(2*x);
+            if (a < 23_34)
+            {
+                goo();
+            }
+            else
+            {
+                continue;
+            }
+        }
+        

@@ -1,0 +1,6 @@
+  
+        helo : function auto(n:integer, b: string, inherit c: array) {
+                a,b,c,d: integer =1,2,3,4;
+                a,d: integer =2,3,4;
+        }
+        

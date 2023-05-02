@@ -1,0 +1,14 @@
+  
+        helo : function auto(n:integer, b: string, inherit c: array) {
+                a: integer = 25;
+                a[1_1,1_2_345_2]=5;
+                do
+                {
+                a[0] = h;
+                saybye(2*2,y*3);
+                if (saybye())
+                return foo(n-2);
+                }
+                while (a <= 2);
+        }
+        

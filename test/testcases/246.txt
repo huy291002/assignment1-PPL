@@ -1,0 +1,16 @@
+  
+        goodbye : function auto(n:integer, b: string, inherit c: array) {
+                if (a >= 12_234.e+2)
+                {
+                sayhello();
+                }
+                else
+                saygoodbye(2*3);
+                for (i =1, i<2, i+2)
+                {
+                    foo();
+                    break;
+                    return;
+                }
+        }
+        

@@ -1,0 +1,3 @@
+  
+        array [1_2,2_3] of integer
+        

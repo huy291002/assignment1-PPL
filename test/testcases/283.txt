@@ -1,0 +1,10 @@
+
+            {
+                x, b: integer = 1_2, .23e10;
+                arr: array [1] of  boolean = true;
+                {
+                    _aD = messi(2, "string");
+                    return ronaldo(true);
+                }
+            }
+        

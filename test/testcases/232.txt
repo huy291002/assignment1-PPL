@@ -1,0 +1,12 @@
+  
+        helo : function void(n:integer) {
+            x : integer =29;
+            a,b: integer=29,10;
+            if (a != 29)
+            a=1;
+            for (i =2, i<2, -i)
+            {
+            return fact(n-1);
+            }
+        }
+        

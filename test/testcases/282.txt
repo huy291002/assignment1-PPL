@@ -1,0 +1,10 @@
+
+            {
+                _bhuy =  messi(p, true);
+                huy, che: integer = 1_29_10_2, 0;
+                {
+                    _huy = messi(2, "string");
+                    return ronaldo();
+                }
+            }
+        

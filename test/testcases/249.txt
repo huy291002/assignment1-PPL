@@ -1,0 +1,11 @@
+  
+        fat: function integer(a: integer)
+        {
+            if (2343.e+2 > d)
+            {
+                a =1;
+            }
+            else
+            break;
+        }
+        
